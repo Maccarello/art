@@ -1,0 +1,27 @@
+{
+  "name": "@maccarello/art",
+  "private": false,
+  "description": "Maccarello logo and icon.",
+  "version": "1.0.0",
+  "author": {
+    "name": "Lucio Benini",
+    "email": "info@pittica.com",
+    "url": "https://pittica.com"
+  },
+  "bugs": {
+    "url": "https://github.com/maccarello/art/issues"
+  },
+  "deprecated": false,
+  "homepage": "https://github.com/maccarello/art",
+  "keywords": [
+    "art",
+	"logo",
+	"icon"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maccarello/art.git"
+  }
+}

@@ -1,0 +1,5 @@
+logs
+*.log
+.DS_Store
+thumbs.db
+desktop.ini
