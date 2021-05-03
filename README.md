@@ -1,4 +1,4 @@
-![Maccarello](https://github.com/maccarello/art/raw/main/logo/positive.png)
+![Maccarello](https://raw.githubusercontent.com/maccarello/art/main/images/logo/positive.png)
 
 # maccarello/art
 
