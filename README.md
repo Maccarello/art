@@ -10,4 +10,4 @@ The main font is [Encode Sans Expanded](https://fonts.google.com/specimen/Encode
 
 ## Copyright
 
-(c) 2021, Pittaca S.r.l.s.
+(c) 2022, Pittaca S.r.l.
